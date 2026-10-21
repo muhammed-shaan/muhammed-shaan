@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Muhammed Shaan 👋
 
-<!--
-**muhammed-shaan/muhammed-shaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science and Engineering student at KMCT Institute of Technology and Management (KTU), Kerala.
 
-Here are some ideas to get you started:
+## What I'm learning
+- Basics of Python, C and Java
+- Exploring web development and AI/ML
+- Working with Ubuntu Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- Small practice programs and my first projects (coming soon)
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/muhammedshaan-cse
